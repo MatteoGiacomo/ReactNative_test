@@ -1,0 +1,36 @@
+{
+"cities" : {
+    "barna" : {
+        "title":"Barcelona",
+        "country":"Spain",
+        "url":"https://en.wikipedia.org/wiki/Barcelona",
+        "image":"https://s3.amazonaws.com/innovation-school-react-native/barna-big.jpg",
+        "thumbnail_image":"https://s3.amazonaws.com/innovation-school-react-native/barna.png"
+    },
+
+    "milan" : {
+        "title":"Milan",
+        "country":"Italy",
+        "url":"https://en.wikipedia.org/wiki/Milan",
+        "image":"https://s3.amazonaws.com/innovation-school-react-native/milan-big.jpg",
+        "thumbnail_image":"https://s3.amazonaws.com/innovation-school-react-native/milan.png"
+    },
+
+    "monza" : {
+        "title":"Monza",
+        "country":"Italy",
+        "url":"https://en.wikipedia.org/wiki/Monza",
+        "image":"https://s3.amazonaws.com/innovation-school-react-native/monza-big.jpg",
+        "thumbnail_image":"https://s3.amazonaws.com/innovation-school-react-native/monza.jpg"
+    },
+
+    "bue" : {
+        "title":"Buenos Aires",
+        "country":"Argentina",
+        "url":"https://en.wikipedia.org/wiki/Buenos_Aires",
+        "image":"https://s3.amazonaws.com/innovation-school-react-native/bue-big.jpg",
+        "thumbnail_image":"https://s3.amazonaws.com/innovation-school-react-native/bue.png"
+    }
+
+}
+}
